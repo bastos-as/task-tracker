@@ -4,6 +4,8 @@ Projeto desenvolvido com auxilio de:
 
 [@Alan_Bastos](https://github.com/bastos-as)
 
+[@Felipe_Alame](https://github.com/felipealame)
+
 [@Filipe_Conde](https://github.com/FilipeConde)
 
 Faz parte da iniciativa d3v.
